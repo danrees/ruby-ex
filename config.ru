@@ -226,7 +226,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>This is my Awesome OpenShift Application</h1>
+            <h1>Making another change, will this actually redploy? Find out!</h1>
           </hgroup>
 
 
